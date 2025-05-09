@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Claudia
+# Hi there 👋 I'm Claudia
 
 ![download](https://github.com/user-attachments/assets/664388fe-a59d-4e33-b813-21c4dc9104dd)
 
@@ -46,14 +46,14 @@ I'm on a journey to refine my skills in data analytics, visualization, and busin
 - Award-winning employees reflect the power of appreciation in motivation.
 - Custom filters allow tailored workforce analysis.
   
-Tools Used: SQL  Power BI  Data Visualization
+Tools Used: Excel,   Power BI,  Data Visualization
 
 ## ✨👯 Let's Connect!
 I love collaborating on data-driven projects, discussing business strategy, and exchanging ideas on productivity tools. Feel free to connect with me on:
 
 📧 Email: [owusuclaudia49@gmail.com]
 
-🔗 LinkedIn: [linkedin.com/in/claudia-owusu-782171290/]
+🔗 LinkedIn: [https://www.linkedin.com/in/claudia-owusu-782171290/]
 
 💻 GitHub: [https://github.com/claudiaowusu]
 
