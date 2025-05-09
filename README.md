@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Claudia
 
-I'm a Data Analyst 
+I'm a Data Analyst. My name is Claudia Owusu. I am a data analyst with a background in teaching and psychology. 
+My journey into data analytics began in an unexpected place, the classroom. As a teacher, I spent years not just instructing students, but also analyzing their performance data to understand learning gaps, track progress, and tailor interventions. I became fascinated by the patterns in the numbers, the stories they told about student behavior, and how I could use those insights to improve outcomes. Over time, I realized my true passion was in uncovering insights and using data to solve problems.
 <!--
 **claudiaowusu/ClaudiaOwusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
