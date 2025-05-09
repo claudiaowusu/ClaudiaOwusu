@@ -20,7 +20,7 @@ I have built a strong foundation in data analysis with hands-on experience in:
 ![Groeth Mindet](https://img.shields.io/badge/Growth_Mindset-orange?style=for-the-bagde)
 ![Adaptable](https://img.shields.io/badge/Adaptable-violet?style=for-the-bagde)
 
-🔭 What I work On
+## 🔭 What I work On
 
  - Data Analysis & Visualization → Extracting trends, refining dashboards, and crafting clear reports.
  - SQL & Database Management → Writing queries, optimizing data retrieval, and structuring information efficiently.
@@ -32,10 +32,11 @@ I'm on a journey to refine my skills in data analytics, visualization, and busin
 
 
 
-- ⚡ Fun fact:
+##⚡ Fun fact:
   I love dancing but only in my head and also making people smile.
 
-  ## Featured Projects
+
+ # Featured Projects
  ## Employee Performance Analysis Dashboard
   This dashboard uncovers workplace dynamics, from training scores to departmental trends. It highlights how education, training, and recognition impact performance, helping organizations make data-driven, people-focused decisions to empower their teams. You can check out the repository here.
   
@@ -54,7 +55,7 @@ I love collaborating on data-driven projects, discussing business strategy, and 
 
 🔗 LinkedIn: [linkedin.com/in/claudia-owusu-782171290]
 
-💻 GitHub: [Your GitHub Profile]
+💻 GitHub: [https://github.com/claudiaowusu]
 
 Thanks for stopping by! 🚀
   
