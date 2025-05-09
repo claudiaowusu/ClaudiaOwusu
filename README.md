@@ -5,10 +5,10 @@ My journey into data analytics began in an unexpected place, the classroom. As a
 
 I have built a strong foundation in data analysis with hands-on experience in:
 
-SQL
-Python(Pandas, NumPy, Matplotlib, Seaborn)
-Excel
-Data Visualization Tools
+ - SQL
+ - Python(Pandas, NumPy, Matplotlib, Seaborn)
+ - Excel
+ - Data Visualization Tools
 <!--
 **claudiaowusu/ClaudiaOwusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
