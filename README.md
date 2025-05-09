@@ -53,7 +53,7 @@ I love collaborating on data-driven projects, discussing business strategy, and 
 
 📧 Email: [owusuclaudia49@gmail.com]
 
-🔗 LinkedIn: [linkedin.com/in/claudia-owusu-782171290]
+🔗 LinkedIn: [linkedin.com/in/claudia-owusu-782171290/]
 
 💻 GitHub: [https://github.com/claudiaowusu]
 
