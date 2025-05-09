@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Claudia
 
-![My Profile Pic])
 ![download](https://github.com/user-attachments/assets/664388fe-a59d-4e33-b813-21c4dc9104dd)
 
 Welcome to my GitHub! I'm a data enthusiast with a passion for transforming raw data into actionable insights. With experience in SQL, Power BI, and Tableau, I thrive on analyzing complex datasets and presenting meaningful visualizations that drive strategic decisions.
