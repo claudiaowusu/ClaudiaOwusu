@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Claudia
 
+![Alt Text] (https://www.google.com/search?sca_esv=6d05711ba5bc2a7b&sxsrf=AHTn8zo_AS_m2aTCeF2etMtRxcGw17BauA:1746814556155&q=data+analytics&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWp6IcynRBrzjy_vjxR0KoDMuRqhRxkdGgKzs52-1TZixcd6cl_RQDcGHq9wWJQA8fHn51xeE1OWAf8JKDAdqfMgTWMEvcw1uxeuyByTOsgVt_77JXsJxx5jizaZLCuFVaURBtaX9nG4ygZZA0kE4ZG8mDirXrnDRR4CTA4WqoqAwcctC3JxB00fw_CRUv1tFsGBSA4uA&sa=X&ved=2ahUKEwisxO6o_5aNAxWRTEEAHcxbErMQtKgLegQIFBAB&biw=958&bih=910#vhid=5dpmD8mhwKaL0M&vssid=mosaic)
+
 Welcome to my GitHub! I'm a data enthusiast with a passion for transforming raw data into actionable insights. With experience in SQL, Power BI, and Tableau, I thrive on analyzing complex datasets and presenting meaningful visualizations that drive strategic decisions.
 
 I have built a strong foundation in data analysis with hands-on experience in:
