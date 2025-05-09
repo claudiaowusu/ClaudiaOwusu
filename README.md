@@ -12,7 +12,13 @@ I have built a strong foundation in data analysis with hands-on experience in:
  - Data Visualization Tools
 
 My Soft Skills 
+
 ![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-bagde)
+![Team Collaboration](https://img.shields.io/badge/Team_Collaboration-yellow?style=for-the-bagde)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-green?style=for-the-bagde)
+![Detail Oriented](https://img.shields.io/badge/Detail_Oriented-white?style=for-the-bagde)
+![Groeth Mindet](https://img.shields.io/badge/Growth_Mindset-orange?style=for-the-bagde)
+![Adaptable](https://img.shields.io/badge/Adaptable-violet?style=for-the-bagde)
 - 🔭 What I work On
 
  - Data Analysis & Visualization → Extracting trends, refining dashboards, and crafting clear reports.
