@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Claudia
 
-I'm a Data Analyst. My name is Claudia Owusu. I am a data analyst with a background in teaching and psychology. 
-My journey into data analytics began in an unexpected place, the classroom. As a teacher, I spent years not just instructing students, but also analyzing their performance data to understand learning gaps, track progress, and tailor interventions. I became fascinated by the patterns in the numbers, the stories they told about student behavior, and how I could use those insights to improve outcomes. Over time, I realized my true passion was in uncovering insights and using data to solve problems.
+Welcome to my GitHub! I'm a data enthusiast with a passion for transforming raw data into actionable insights. With experience in SQL, Power BI, and Tableau, I thrive on analyzing complex datasets and presenting meaningful visualizations that drive strategic decisions.
 
 I have built a strong foundation in data analysis with hands-on experience in:
 
@@ -9,17 +8,31 @@ I have built a strong foundation in data analysis with hands-on experience in:
  - Python(Pandas, NumPy, Matplotlib, Seaborn)
  - Excel
  - Data Visualization Tools
-<!--
-**claudiaowusu/ClaudiaOwusu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My Soft Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 What I work On
+
+ - Data Analysis & Visualization → Extracting trends, refining dashboards, and crafting clear reports.
+ - SQL & Database Management → Writing queries, optimizing data retrieval, and structuring information efficiently.
+ - Business Strategy & Insights → Using data to guide decisions, improve workflows, and solve problems
+
+🚀 My Goals
+I'm on a journey to refine my skills in data analytics, visualization, and business intelligence. My long-term ambition is to become a proficient data analyst, integrating SQL, Python, and visualization tools to make impactful data-driven recommendations.
+
+📂 Featured Projects
+- 📊 Sales Trends Dashboard - Power BI dashboard analyzing customer behavior and sales patterns.
+- 📁 File Organization Strategy - Optimizing digital workflows for structured data management.
+- 🔎 SQL Query Collection - A set of SQL queries designed for efficient data extraction and analysis.
+- 
+✨👯 Let's Connect!
+I love collaborating on data-driven projects, discussing business strategy, and exchanging ideas on productivity tools. Feel free to connect with me on:
+
+📧 Email: [owusuclaudia49@gmail.com]
+🔗 LinkedIn: [linkedin.com/in/claudia-owusu-782171290]
+💻 GitHub: [Your GitHub Profile]
+Thanks for stopping by! 🚀
+  
+ 
+- ⚡ Fun fact:
+  I love dancing but only in my head and also making people smile.
