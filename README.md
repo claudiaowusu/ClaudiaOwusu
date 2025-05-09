@@ -20,17 +20,17 @@ I have built a strong foundation in data analysis with hands-on experience in:
 ![Groeth Mindet](https://img.shields.io/badge/Growth_Mindset-orange?style=for-the-bagde)
 ![Adaptable](https://img.shields.io/badge/Adaptable-violet?style=for-the-bagde)
 
-- 🔭 What I work On
+🔭 What I work On
 
  - Data Analysis & Visualization → Extracting trends, refining dashboards, and crafting clear reports.
  - SQL & Database Management → Writing queries, optimizing data retrieval, and structuring information efficiently.
  - Business Strategy & Insights → Using data to guide decisions, improve workflows, and solve problems
 
-🚀 My Goals
+## 🚀 My Goals
+
 I'm on a journey to refine my skills in data analytics, visualization, and business intelligence. My long-term ambition is to become a proficient data analyst, integrating SQL, Python, and visualization tools to make impactful data-driven recommendations.
 
-✨👯 Let's Connect!
-I love collaborating on data-driven projects, discussing business strategy, and exchanging ideas on productivity tools. Feel free to connect with me on:
+
 
 - ⚡ Fun fact:
   I love dancing but only in my head and also making people smile.
@@ -47,9 +47,15 @@ I love collaborating on data-driven projects, discussing business strategy, and 
   
 Tools Used: SQL  Power BI  Data Visualization
 
+## ✨👯 Let's Connect!
+I love collaborating on data-driven projects, discussing business strategy, and exchanging ideas on productivity tools. Feel free to connect with me on:
+
 📧 Email: [owusuclaudia49@gmail.com]
+
 🔗 LinkedIn: [linkedin.com/in/claudia-owusu-782171290]
+
 💻 GitHub: [Your GitHub Profile]
+
 Thanks for stopping by! 🚀
   
  
