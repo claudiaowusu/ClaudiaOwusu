@@ -12,7 +12,7 @@ I have built a strong foundation in data analysis with hands-on experience in:
  - Data Visualization Tools
 
 My Soft Skills 
-
+![Communication](https://img.shields.io/badge/Communication-blue?style=for-the-bagde)
 - 🔭 What I work On
 
  - Data Analysis & Visualization → Extracting trends, refining dashboards, and crafting clear reports.
