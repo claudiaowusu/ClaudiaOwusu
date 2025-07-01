@@ -38,7 +38,7 @@ I'm on a journey to refine my skills in data analytics, visualization, and busin
 
  # Featured Projects
  ## Employee Performance Analysis Dashboard
-  This dashboard uncovers workplace dynamics, from training scores to departmental trends. It highlights how education, training, and recognition impact performance, helping organizations make data-driven, people-focused decisions to empower their teams. You can check out the repository here.
+  This dashboard uncovers workplace dynamics, from training scores to departmental trends. It highlights how education, training, and recognition impact performance, helping organizations make data-driven, people-focused decisions to empower their teams. You can check out the repository [here] 
   
 ## Key Insights:
 - Employees with higher training scores tend to earn better ratings.
